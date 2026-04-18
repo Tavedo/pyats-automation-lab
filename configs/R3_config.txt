@@ -1,0 +1,42 @@
+hostname R3
+!
+ip domain name lab.local
+!
+crypto key generate rsa modulus 2048
+ip ssh version 2
+!
+username admin privilege 15 secret cisco
+!
+interface Loopback0
+ ip address 3.3.3.3 255.255.255.255
+ no shutdown
+!
+interface GigabitEthernet1
+ description MGMT
+ ip address 172.21.1.23 255.255.255.0
+ no shutdown
+!
+interface GigabitEthernet2
+ description to_R1
+ ip address 10.0.13.2 255.255.255.252
+ no shutdown
+!
+interface GigabitEthernet3
+ description to_R2
+ ip address 10.0.23.2 255.255.255.252
+ no shutdown
+!
+interface GigabitEthernet4
+ shutdown
+!
+router ospf 1
+ router-id 3.3.3.3
+ network 3.3.3.3 0.0.0.0 area 0
+ network 10.0.13.0 0.0.0.3 area 0
+ network 10.0.23.0 0.0.0.3 area 0
+!
+line vty 0 4
+ login local
+ transport input ssh
+!
+end

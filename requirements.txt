@@ -1,0 +1,6 @@
+pyats[full]>=23.0
+genie>=23.0
+unicon>=23.0
+netmiko>=4.0
+pyyaml>=6.0
+requests>=2.28

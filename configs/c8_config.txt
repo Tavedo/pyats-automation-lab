@@ -1,0 +1,32 @@
+hostname c8
+!
+ip domain name lab.local
+!
+crypto key generate rsa modulus 2048
+ip ssh version 2
+!
+username admin privilege 15 secret cisco
+!
+interface Loopback0
+ ip address 8.8.8.8 255.255.255.255
+ no shutdown
+!
+interface GigabitEthernet1
+ description MGMT
+ ip address 172.21.1.24 255.255.255.0
+ no shutdown
+!
+interface GigabitEthernet2
+ shutdown
+!
+interface GigabitEthernet3
+ shutdown
+!
+interface GigabitEthernet4
+ shutdown
+!
+line vty 0 4
+ login local
+ transport input ssh
+!
+end

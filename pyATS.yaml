@@ -1,0 +1,694 @@
+annotations:
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#8E1515'
+    rotation: 0
+    text_bold: true
+    text_content: 172.21.1.10
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -592.0
+    y1: -472.0
+    z_index: 0
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#8E1515'
+    rotation: 0
+    text_bold: true
+    text_content: |-
+      management network
+      172.21.1.0/24
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -412.0
+    y1: -596.0
+    z_index: 0
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#0F7AB0'
+    rotation: 0
+    text_bold: true
+    text_content: 172.21.1.21
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -364.0
+    y1: -415.0
+    z_index: 0
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#8E1515'
+    rotation: 0
+    text_bold: true
+    text_content: 172.21.1.22
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -589.0
+    y1: -262.0
+    z_index: 0
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#8E1515'
+    rotation: 0
+    text_bold: true
+    text_content: 172.21.1.23
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -114.0
+    y1: -271.0
+    z_index: 0
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#096795'
+    rotation: 0
+    text_bold: true
+    text_content: 10.0.13.0/30
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -285.0
+    y1: -294.0
+    z_index: 0
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#154C8E'
+    rotation: 0
+    text_bold: true
+    text_content: 10.0.23.0/30
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -363.0
+    y1: -212.0
+    z_index: 0
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#044078'
+    rotation: 0
+    text_bold: true
+    text_content: 10.0.12.0/30
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -428.0
+    y1: -295.0
+    z_index: 0
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#04E298'
+    rotation: 0
+    text_bold: true
+    text_content: '.2'
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -429.0
+    y1: -268.0
+    z_index: 0
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#04E298'
+    rotation: 0
+    text_bold: true
+    text_content: '.1'
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -452.0
+    y1: -209.0
+    z_index: 0
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#04E298'
+    rotation: 0
+    text_bold: true
+    text_content: '.1'
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -279.0
+    y1: -370.0
+    z_index: 0
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#04E298'
+    rotation: 0
+    text_bold: true
+    text_content: '.2'
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -160.0
+    y1: -207.0
+    z_index: 0
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#04E298'
+    rotation: 0
+    text_bold: true
+    text_content: '.2'
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -163.0
+    y1: -255.0
+    z_index: 0
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#04E298'
+    rotation: 0
+    text_bold: true
+    text_content: '.1'
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -361.0
+    y1: -368.0
+    z_index: 0
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#8E1515'
+    rotation: 0
+    text_bold: true
+    text_content: 172.21.1.24
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 80.0
+    y1: -400.0
+    z_index: 0
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#808080FF'
+    rotation: 0
+    text_bold: false
+    text_content: |-
+      network:
+        version: 2
+        ethernets:
+          ens2:
+            dhcp4: yes
+            addresses:
+              - 172.21.1.10/24
+            routes:
+              - to: 0.0.0.0/0           # Default route
+                via: 192.168.255.1      # Gateway address
+            nameservers:
+              addresses:
+                - 8.8.8.8
+                - 8.8.4.4
+
+      sudo sysctl -w net.ipv4.ip_forward=1
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -920.0
+    y1: -520.0
+    z_index: 1
+smart_annotations: []
+nodes:
+  - boot_disk_size: null
+    configuration: []
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n0
+    image_definition: ubuntu-24-04-20250503
+    label: Student Workstation
+    node_definition: ubuntu
+    parameters: {}
+    ram: null
+    tags: []
+    x: -541
+    y: -521
+    interfaces:
+      - id: i0
+        label: ens2
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration: []
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n1
+    image_definition: null
+    label: unmanaged-switch-0
+    node_definition: unmanaged_switch
+    parameters: {}
+    ram: null
+    tags: []
+    x: -320
+    y: -520
+    interfaces:
+      - id: i0
+        label: port0
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i1
+        label: port1
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i2
+        label: port2
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i3
+        label: port3
+        mac_address: null
+        type: physical
+        slot: 3
+      - id: i4
+        label: port4
+        mac_address: null
+        type: physical
+        slot: 4
+      - id: i5
+        label: port5
+        mac_address: null
+        type: physical
+        slot: 5
+      - id: i6
+        label: port6
+        mac_address: null
+        type: physical
+        slot: 6
+      - id: i7
+        label: port7
+        mac_address: null
+        type: physical
+        slot: 7
+  - boot_disk_size: null
+    configuration:
+      - name: default
+        content: System Bridge
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n2
+    image_definition: null
+    label: ext-conn-0
+    node_definition: external_connector
+    parameters: {}
+    ram: null
+    tags: []
+    x: -159
+    y: -519
+    interfaces:
+      - id: i0
+        label: port
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration: []
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n3
+    image_definition: null
+    label: R1
+    node_definition: csr1000v
+    parameters: {}
+    ram: null
+    tags: []
+    x: -316
+    y: -369
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet1
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i2
+        label: GigabitEthernet2
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i3
+        label: GigabitEthernet3
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i4
+        label: GigabitEthernet4
+        mac_address: null
+        type: physical
+        slot: 3
+  - boot_disk_size: null
+    configuration: []
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n4
+    image_definition: null
+    label: R2
+    node_definition: csr1000v
+    parameters: {}
+    ram: null
+    tags: []
+    x: -491
+    y: -221
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet1
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i2
+        label: GigabitEthernet2
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i3
+        label: GigabitEthernet3
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i4
+        label: GigabitEthernet4
+        mac_address: null
+        type: physical
+        slot: 3
+  - boot_disk_size: null
+    configuration: []
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n5
+    image_definition: null
+    label: R3
+    node_definition: csr1000v
+    parameters: {}
+    ram: null
+    tags: []
+    x: -115
+    y: -224
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet1
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i2
+        label: GigabitEthernet2
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i3
+        label: GigabitEthernet3
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i4
+        label: GigabitEthernet4
+        mac_address: null
+        type: physical
+        slot: 3
+  - boot_disk_size: null
+    configuration: []
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n6
+    image_definition: null
+    label: c8
+    node_definition: cat8000v
+    parameters: {}
+    ram: null
+    tags: []
+    x: 120
+    y: -360
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet1
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i2
+        label: GigabitEthernet2
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i3
+        label: GigabitEthernet3
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i4
+        label: GigabitEthernet4
+        mac_address: null
+        type: physical
+        slot: 3
+  - boot_disk_size: null
+    configuration:
+      - name: node.cfg
+        content: |-
+          # this is a shell script which will be sourced at boot
+
+          # OS Level Configuration
+          hostname netbox-server
+
+          # Network Config: eth0
+          # Optional: Configure static IP address if DHCP not being used
+          # ip link set up dev eth0
+          # ip addr add 192.168.0.11/24 dev eth0
+          # ip route add default via 192.168.0.1
+          # Configure DNS servers
+          # echo "nameserver 192.168.0.1" > /etc/resolv.conf
+
+          # Optional: Create an additional OS user account
+          # Note: The user cisco/cisco is already created
+          # USERNAME=anotheruser
+          # PASSWORD=cisco
+
+          # Network Config: eth1
+          # Optional: Configure IP address on 2nd interface to
+          #           allow access to the CML controller. This
+          #           is required to sync the CML topology to NetBox
+          #           if the primary interface doesn't have a path
+          #           to the CML controller.
+          # Note: The default CML firewall configuration for the
+          #       NAT ext-conn does NOT allow CML API access.
+          #       Either add https to the firewall rule in Cockpit
+          #       or use a bridge external connector
+          # ip link set up dev eth1
+          # ip addr add 192.0.2.2/24 dev eth1
+
+          # Optional: Settings to Auto Populate NetBox from CML Topology
+          # By setting the following ENVs the cml2netbox/topology-2-netbox
+          # script will run to attempt to populate NetBox
+          # Notes:
+          #   * These variables all relate to the CML controller/server
+          #   * The netbox-server must be connected to an ext-conn to reach
+          #     the CML API.
+          #   * A bridge ext-conn will work with the default CML network config
+          #   * A NAT ext-conn requires HTTPs being enabled on the virbr0 firewall
+          #     zone from within Cockpit
+          #   * The example value below uses the standard NAT ext-conn address.
+          #     Update it for your environment if you're using a bridge ext-conn
+
+           export VIRL2_URL=https://192.168.254.128
+           export VIRL2_USER=vedo
+           export VIRL2_PASS=Sun@24Nov
+           export VIRL2_VERIFY_SSL=False
+           export LAB_NAME="pyATS"
+          # Note: Lab_ID only needs to be set if multiple Labs with same
+          #       Name exist on the CML server
+          # export LAB_ID=****
+
+          # These two scripts will:
+          # 1. Check if NetBox is healthy
+          # 2. Check if CML is reachable, and if so...
+          # 3. Run the script to sync the CML topology to Netbox
+          /home/cisco/check_netbox.sh >> /home/cisco/startup_log.txt 2>> /home/cisco/startup_err.txt
+          /home/cisco/check_and_sync_cml.sh >> /home/cisco/startup_log.txt 2>> /home/cisco/startup_err.txt
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n7
+    image_definition: null
+    label: netbox-server-0
+    node_definition: netbox-server
+    parameters: {}
+    ram: null
+    tags: []
+    x: -520
+    y: -400
+    interfaces:
+      - id: i0
+        label: eth0
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i1
+        label: eth1
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i2
+        label: eth2
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i3
+        label: eth3
+        mac_address: null
+        type: physical
+        slot: 3
+links:
+  - id: l0
+    n1: n0
+    n2: n1
+    i1: i0
+    i2: i0
+    conditioning: {}
+    label: ubuntu-0-ens2<->unmanaged-switch-0-port0
+  - id: l1
+    n1: n2
+    n2: n1
+    i1: i0
+    i2: i1
+    conditioning: {}
+    label: ext-conn-0-port<->unmanaged-switch-0-port1
+  - id: l2
+    n1: n4
+    n2: n1
+    i1: i1
+    i2: i2
+    conditioning: {}
+    label: R2-GigabitEthernet1<->unmanaged-switch-0-port2
+  - id: l3
+    n1: n3
+    n2: n1
+    i1: i1
+    i2: i3
+    conditioning: {}
+    label: R1-GigabitEthernet1<->unmanaged-switch-0-port3
+  - id: l4
+    n1: n5
+    n2: n1
+    i1: i1
+    i2: i4
+    conditioning: {}
+    label: R3-GigabitEthernet1<->unmanaged-switch-0-port4
+  - id: l5
+    n1: n4
+    n2: n5
+    i1: i3
+    i2: i3
+    conditioning: {}
+    label: R2-GigabitEthernet3<->R3-GigabitEthernet3
+  - id: l6
+    n1: n4
+    n2: n3
+    i1: i2
+    i2: i2
+    conditioning: {}
+    label: R2-GigabitEthernet2<->R1-GigabitEthernet2
+  - id: l7
+    n1: n3
+    n2: n5
+    i1: i3
+    i2: i2
+    conditioning: {}
+    label: R1-GigabitEthernet3<->R3-GigabitEthernet2
+  - id: l8
+    n1: n6
+    n2: n1
+    i1: i1
+    i2: i5
+    conditioning: {}
+    label: cat8000v-0-GigabitEthernet1<->unmanaged-switch-0-port5
+  - id: l9
+    n1: n7
+    n2: n1
+    i1: i0
+    i2: i6
+    conditioning: {}
+    label: netbox-server-0-eth0<->unmanaged-switch-0-port6
+lab:
+  description: ''
+  notes: ''
+  title: pyATS
+  version: 0.3.0

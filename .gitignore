@@ -1,0 +1,23 @@
+# pyATS logs and output
+logs/
+snapshots/
+archive/
+*.log
+*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# Sensitive files - never commit credentials
+testbed/testbed_with_passwords.yaml
+secrets.yaml
+.env
+
+# OS
+.DS_Store
+Thumbs.db
