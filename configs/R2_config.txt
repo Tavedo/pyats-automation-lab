@@ -5,7 +5,7 @@ ip domain name lab.local
 crypto key generate rsa modulus 2048
 ip ssh version 2
 !
-username admin privilege 15 secret cisco
+username admin privilege 15 secret <LAB_PASSWORD>
 !
 interface Loopback0
  ip address 2.2.2.2 255.255.255.255
